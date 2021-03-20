@@ -5,8 +5,8 @@
 Дальше скачай сам скрипт:
 - git clone https://github.com/FuFa-init/sms.py
 
-Перейди в каталог sms:
-- cd sms/
+Перейди в каталог sms.py:
+- cd sms.py/
 
 Дальше выдай разрешение + x, чтобы скрипт работал классно:
 - chmod + x sms.py
