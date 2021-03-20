@@ -1,6 +1,6 @@
   
 Достаточно иметь библиотеку Python. Но если их у тя нет, то скачай:
-- pkg установить python
+- pkg install python
 
 Дальше скачай сам скрипт:
 - git clone https://github.com/FuFa-init/sms.py
